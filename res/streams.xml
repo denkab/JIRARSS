@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:usr="http://streams.atlassian.com/syndication/username/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0">
+  <title>OSQA JIRA - Activity Stream</title>
+  <id>http://jira.osqa.net</id>
+  <updated>2013-07-01T03:43:30Z</updated>
+  <dc:date>2013-07-01T03:43:30Z</dc:date>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=rajeev.so'&gt;Rajeev Sonkhia&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-930"&gt;OSQA-930&lt;/a&gt; (Question still exists in question tab even they marked as closed.)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-930" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/task.gif" />
+    <category term="created" />
+    <author>
+      <name>Rajeev Sonkhia</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=rajeev.so</uri>
+      <usr:username>rajeev.so</usr:username>
+    </author>
+    <id>urn:uuid:23cc24b2-24ae-3090-bd13-e5e5e18ca202</id>
+    <updated>2013-06-17T10:46:28Z</updated>
+    <published>2013-06-17T10:46:28Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=rajeev.so'&gt;Rajeev Sonkhia&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-930"&gt;OSQA-930&lt;/a&gt; (Question still exists in question tab even they marked as closed.)</summary>
+    <dc:date>2013-06-17T10:46:28Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=robquas'&gt;Rob Quans&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-929"&gt;OSQA-929&lt;/a&gt; ( jquery-ui.css was not found on this server (google CDN))</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-929" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>Rob Quans</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=robquas</uri>
+      <usr:username>robquas</usr:username>
+    </author>
+    <id>urn:uuid:e5651c14-e724-3f17-9a13-7cc80afc9fa8</id>
+    <updated>2013-05-30T09:58:14Z</updated>
+    <published>2013-05-30T09:58:14Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=robquas'&gt;Rob Quans&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-929"&gt;OSQA-929&lt;/a&gt; ( jquery-ui.css was not found on this server (google CDN))</summary>
+    <dc:date>2013-05-30T09:58:14Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; changed the Assignee to 'Javyer Der Derian' on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <author>
+      <name>Javyer Der Derian</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer</uri>
+      <usr:username>javyer</usr:username>
+    </author>
+    <id>urn:uuid:fefccf2a-61a8-3e3d-a5bc-156609e63307</id>
+    <updated>2013-05-29T21:57:34Z</updated>
+    <published>2013-05-29T21:57:34Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; changed the Assignee to 'Javyer Der Derian' on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</summary>
+    <dc:date>2013-05-29T21:57:34Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; resolved &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="resolved" />
+    <author>
+      <name>Javyer Der Derian</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer</uri>
+      <usr:username>javyer</usr:username>
+    </author>
+    <id>urn:uuid:c7fcede1-5edc-3a68-bed5-69ed23fbed67</id>
+    <updated>2013-05-29T21:57:32Z</updated>
+    <published>2013-05-29T21:57:32Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; resolved &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</summary>
+    <dc:date>2013-05-29T21:57:32Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Javyer Der Derian</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer</uri>
+      <usr:username>javyer</usr:username>
+    </author>
+    <id>urn:uuid:3e90b430-cd21-30c2-b826-813747fbe53b</id>
+    <updated>2013-05-29T21:57:27Z</updated>
+    <published>2013-05-29T21:57:27Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=javyer'&gt;Javyer Der Derian&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work) saying: &lt;div class="activity-item-description"&gt;Thanks! This has been committed into trunk.&lt;/div&gt;</summary>
+    <dc:date>2013-05-29T21:57:27Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=slieschke'&gt;Simon Lieschke&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-779"&gt;OSQA-779&lt;/a&gt; (Fix % accept rate feature calculation)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-779" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Simon Lieschke</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=slieschke</uri>
+      <usr:username>slieschke</usr:username>
+    </author>
+    <id>urn:uuid:6819e134-7f69-337b-abdf-8d0ec9f2db0d</id>
+    <updated>2013-05-28T20:59:28Z</updated>
+    <published>2013-05-28T20:59:28Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=slieschke'&gt;Simon Lieschke&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-779"&gt;OSQA-779&lt;/a&gt; (Fix % accept rate feature calculation) saying: &lt;div class="activity-item-description"&gt;FWIW Stack Overflow have ditched displaying user accept rates: &lt;a href="http://meta.stackoverflow.com/a/164654"&gt;http://meta.stackoverflow.com/a/164654&lt;/a&gt;&lt;/div&gt;</summary>
+    <dc:date>2013-05-28T20:59:28Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:59d286d8-fb04-3fac-8a35-09a0090e2f57" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=moltonel'&gt;vdp&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-779"&gt;OSQA-779&lt;/a&gt; (Fix % accept rate feature calculation)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-779" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>vdp</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=moltonel</uri>
+      <usr:username>moltonel</usr:username>
+    </author>
+    <id>urn:uuid:63952f5b-f82c-3d8c-b2e3-272c15eec9c2</id>
+    <updated>2013-05-28T13:08:49Z</updated>
+    <published>2013-05-28T13:08:49Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=moltonel'&gt;vdp&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-779"&gt;OSQA-779&lt;/a&gt; (Fix % accept rate feature calculation) saying: &lt;div class="activity-item-description"&gt;IMHO both metrics have value. The &amp;quot;did accept&amp;quot; rate encourages requesters to accept answers (giving feedback and closure), and the &amp;quot;got accepted&amp;quot; rate encourages responders to write high-quality answers.&#xD;&lt;br/&gt;
+&#xD;&lt;br/&gt;
+Both incentives do seem a bit redundant with karma however. Maybe a better incentive would be to get rid of those rates, and separate the global karma into a &amp;quot;resquest&amp;quot; and &amp;quot;answer&amp;quot; karma ?&lt;/div&gt;</summary>
+    <dc:date>2013-05-28T13:08:49Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:59d286d8-fb04-3fac-8a35-09a0090e2f57" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=gerald'&gt;Gerald Combs&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-928"&gt;OSQA-928&lt;/a&gt; (XSS vulnerability in ZeroClipboard.swf)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-928" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>Gerald Combs</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=gerald</uri>
+      <usr:username>gerald</usr:username>
+    </author>
+    <id>urn:uuid:34f92015-34bc-360d-95e4-f23310bfc8e5</id>
+    <updated>2013-05-21T18:35:58Z</updated>
+    <published>2013-05-21T18:35:58Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=gerald'&gt;Gerald Combs&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-928"&gt;OSQA-928&lt;/a&gt; (XSS vulnerability in ZeroClipboard.swf)</summary>
+    <dc:date>2013-05-21T18:35:58Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=purevtsooj'&gt;Purevtsooj D&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-927"&gt;OSQA-927&lt;/a&gt; (Something wrond happened during Facebook authentication, administrators will be notified)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-927" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>Purevtsooj D</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=purevtsooj</uri>
+      <usr:username>purevtsooj</usr:username>
+    </author>
+    <id>urn:uuid:41dabc91-3fae-3a5f-b377-429488a4a6cd</id>
+    <updated>2013-05-19T15:42:42Z</updated>
+    <published>2013-05-19T15:42:42Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=purevtsooj'&gt;Purevtsooj D&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-927"&gt;OSQA-927&lt;/a&gt; (Something wrond happened during Facebook authentication, administrators will be notified)</summary>
+    <dc:date>2013-05-19T15:42:42Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Vincent James</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james</uri>
+      <usr:username>vincent james</usr:username>
+    </author>
+    <id>urn:uuid:7f72627e-23cc-3cf5-8e1e-1d6f7808b983</id>
+    <updated>2013-05-19T11:41:53Z</updated>
+    <published>2013-05-19T11:41:53Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work) saying: &lt;div class="activity-item-description"&gt;Nice job!  Thanks&lt;/div&gt;</summary>
+    <dc:date>2013-05-19T11:41:53Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=kevinr'&gt;Kevin Riggle&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-926"&gt;OSQA-926&lt;/a&gt; (new question e-mail notifications are sent for ignored tags)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-926" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>Kevin Riggle</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=kevinr</uri>
+      <usr:username>kevinr</usr:username>
+    </author>
+    <id>urn:uuid:4632aec5-17bb-30fc-b9ad-bbdc5d4f14bb</id>
+    <updated>2013-05-13T22:40:57Z</updated>
+    <published>2013-05-13T22:40:57Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=kevinr'&gt;Kevin Riggle&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-926"&gt;OSQA-926&lt;/a&gt; (new question e-mail notifications are sent for ignored tags)</summary>
+    <dc:date>2013-05-13T22:40:57Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui'&gt;Jose Luis&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Jose Luis</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui</uri>
+      <usr:username>chezlui</usr:username>
+    </author>
+    <id>urn:uuid:9372aa6c-2345-3313-81d1-c5be5f70e09b</id>
+    <updated>2013-05-13T18:46:04Z</updated>
+    <published>2013-05-13T18:46:04Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui'&gt;Jose Luis&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work) saying: &lt;div class="activity-item-description"&gt;OK, Thanks again.&lt;/div&gt;</summary>
+    <dc:date>2013-05-13T18:46:04Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto'&gt;atsuo ishimoto&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>atsuo ishimoto</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto</uri>
+      <usr:username>atsuoishimoto</usr:username>
+    </author>
+    <id>urn:uuid:44f19130-674a-3e0b-b39b-8cf568953f7b</id>
+    <updated>2013-05-13T15:30:22Z</updated>
+    <published>2013-05-13T15:30:22Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto'&gt;atsuo ishimoto&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work) saying: &lt;div class="activity-item-description"&gt;I don't know for details, but Twitter requires `oauth_verifier' from this april. &#xD;&lt;br/&gt;
+&#xD;&lt;br/&gt;
+This url might help. &lt;a href="https://dev.twitter.com/discussions/16443"&gt;https://dev.twitter.com/discussions/16443&lt;/a&gt;&lt;/div&gt;</summary>
+    <dc:date>2013-05-13T15:30:22Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui'&gt;Jose Luis&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Jose Luis</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui</uri>
+      <usr:username>chezlui</usr:username>
+    </author>
+    <id>urn:uuid:110cb083-e189-36c1-96bb-c48017f79542</id>
+    <updated>2013-05-13T00:19:32Z</updated>
+    <published>2013-05-13T00:19:32Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=chezlui'&gt;Jose Luis&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work) saying: &lt;div class="activity-item-description"&gt;Thank you very much Atsuo. I've been a day totally crazy trying to find the issue. Do you know why stopped working as before?&lt;/div&gt;</summary>
+    <dc:date>2013-05-13T00:19:32Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto'&gt;atsuo ishimoto&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-925" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>atsuo ishimoto</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto</uri>
+      <usr:username>atsuoishimoto</usr:username>
+    </author>
+    <id>urn:uuid:e3e25884-160e-3f8a-a850-33f6baf3c930</id>
+    <updated>2013-05-10T11:04:21Z</updated>
+    <published>2013-05-10T11:04:21Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=atsuoishimoto'&gt;atsuo ishimoto&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-925"&gt;OSQA-925&lt;/a&gt; (Twitter login doesn't work)</summary>
+    <dc:date>2013-05-10T11:04:21Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=shrike'&gt;Shrike&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-154"&gt;OSQA-154&lt;/a&gt; (Add support for private (login required) OSQA sites)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-154" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/newfeature.gif" />
+    <category term="comment" />
+    <author>
+      <name>Shrike</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=shrike</uri>
+      <usr:username>shrike</usr:username>
+    </author>
+    <id>urn:uuid:9413a9af-8808-3432-bd4f-f172264c67da</id>
+    <updated>2013-03-11T11:01:14Z</updated>
+    <published>2013-03-11T11:01:14Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=shrike'&gt;Shrike&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-154"&gt;OSQA-154&lt;/a&gt; (Add support for private (login required) OSQA sites) saying: &lt;div class="activity-item-description"&gt;Is there any chance to see the patch included into the master branch? It's a really common case.&lt;/div&gt;</summary>
+    <dc:date>2013-03-11T11:01:14Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:cd8cd226-9293-3330-bd57-f36fccfed412" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=tang'&gt;Pei-Tang Huang&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-924"&gt;OSQA-924&lt;/a&gt; (Contributing Traditional Chinese (zh_TW) translations)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-924" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/improvement.gif" />
+    <category term="created" />
+    <author>
+      <name>Pei-Tang Huang</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=tang</uri>
+      <usr:username>tang</usr:username>
+    </author>
+    <id>urn:uuid:02f0b82a-5f07-3fe5-b6ba-b436854c5b7a</id>
+    <updated>2013-03-11T01:56:47Z</updated>
+    <published>2013-03-11T01:56:47Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=tang'&gt;Pei-Tang Huang&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-924"&gt;OSQA-924&lt;/a&gt; (Contributing Traditional Chinese (zh_TW) translations)</summary>
+    <dc:date>2013-03-11T01:56:47Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=dhanushka'&gt;dhanushka parakrama&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-923"&gt;OSQA-923&lt;/a&gt; (LDAP Authentication with SSL notworking )</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-923" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="created" />
+    <author>
+      <name>dhanushka parakrama</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=dhanushka</uri>
+      <usr:username>dhanushka</usr:username>
+    </author>
+    <id>urn:uuid:394596da-56ca-3083-b396-f47b6f864edb</id>
+    <updated>2013-02-23T02:26:16Z</updated>
+    <published>2013-02-23T02:26:16Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=dhanushka'&gt;dhanushka parakrama&lt;/a&gt; created &lt;a href="http://jira.osqa.net/browse/OSQA-923"&gt;OSQA-923&lt;/a&gt; (LDAP Authentication with SSL notworking )</summary>
+    <dc:date>2013-02-23T02:26:16Z</dc:date>
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-813"&gt;OSQA-813&lt;/a&gt; (Facebook login doesn't work in trunk when OSQA isn't hosted in the root)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-813" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Vincent James</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james</uri>
+      <usr:username>vincent james</usr:username>
+    </author>
+    <id>urn:uuid:99d32890-ab7f-393d-9866-13c812d742b1</id>
+    <updated>2013-02-22T20:13:05Z</updated>
+    <published>2013-02-22T20:13:05Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-813"&gt;OSQA-813&lt;/a&gt; (Facebook login doesn't work in trunk when OSQA isn't hosted in the root) saying: &lt;div class="activity-item-description"&gt;I was not able to figure out how to feed the patch files into Diff-Match-Patch.  But I was able to see the changes in the patch files and make the changes by hand.  Everything works great now, thanks so much!&lt;/div&gt;</summary>
+    <dc:date>2013-02-22T20:13:05Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:efffbb16-ba95-39d9-ad87-e328f816b683" />
+  </entry>
+  <entry>
+    <title type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-843"&gt;OSQA-843&lt;/a&gt; (Attempt to use facebook login redirects to incorrect URL in a subdirectory install)</title>
+    <link rel="alternate" href="http://jira.osqa.net/browse/OSQA-843" />
+    <link rel="http://streams.atlassian.com/syndication/icon" href="http://jira.osqa.net/images/icons/bug.gif" />
+    <category term="comment" />
+    <author>
+      <name>Vincent James</name>
+      <uri>http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james</uri>
+      <usr:username>vincent james</usr:username>
+    </author>
+    <id>urn:uuid:fe1ff79a-9811-3126-a521-e660b60421f6</id>
+    <updated>2013-02-22T14:19:23Z</updated>
+    <published>2013-02-22T14:19:23Z</published>
+    <summary type="html">&lt;a href='http://jira.osqa.net/secure/ViewProfile.jspa?name=vincent+james'&gt;Vincent James&lt;/a&gt; commented on &lt;a href="http://jira.osqa.net/browse/OSQA-843"&gt;OSQA-843&lt;/a&gt; (Attempt to use facebook login redirects to incorrect URL in a subdirectory install) saying: &lt;div class="activity-item-description"&gt;Any luck resolving this?&lt;/div&gt;</summary>
+    <dc:date>2013-02-22T14:19:23Z</dc:date>
+    <thr:in-reply-to ref="urn:uuid:860feee0-4fd5-3120-b5bd-2ef93fb0abce" />
+  </entry>
+</feed>
+
